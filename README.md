@@ -1,8 +1,8 @@
-# Presentation
-Name: Ayame O. M. Tavares
+# Apresentação
+Nome: Ayame O. M. Tavares
 
-Nickname: Ay
+Apelido: Ay
 
-Age: 14 - 15
+Idade: 14 - 15
 
 @AyameTavares
